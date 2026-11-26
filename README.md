@@ -14,6 +14,16 @@ ICT student at **Turku University of Applied Sciences** in Finland. I like proje
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/Qumetri/pid-rust-demo"><img src="assets/pid-controller.jpg" alt="PID controller touchscreen: live plot and controls, sensor cards, and system stats" /></a>
+
+### [PID Controller](https://github.com/Qumetri/pid-rust-demo)
+A PID controller for a water-pump demo rig, written in Rust on a Raspberry Pi 4 with a 5-inch touchscreen. Live plot, tuning and auto/manual on the screen, drivers for ultrasonic, flow, temperature and motion sensors, pump PWM with safe shutdown, and a page of live system stats.
+
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Slint](https://img.shields.io/badge/Slint-2379F4) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/Qumetri/MeowHub"><img src="assets/meowhub.jpg" alt="MeowHub hub page: live server stats and cards for every hosted service" /></a>
 
 ### [MeowHub](https://github.com/Qumetri/MeowHub)
@@ -22,6 +32,8 @@ My home server as one Docker Compose stack: Nextcloud, Immich, a Matrix messenge
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Qumetri/JunctionX2026Project"><img src="assets/junction.jpg" alt="If Life Moments: the moving risk check form" /></a>
@@ -32,8 +44,6 @@ Junction 2026 hackathon, If Insurance challenge. Enter the address you are movin
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Qumetri/esp32-sensor-dashboard"><img src="assets/esp32.jpg" alt="Sensor dashboard in dark theme with temperature and humidity charts" /></a>
@@ -44,6 +54,8 @@ An ESP32 with a DHT-22 sends temperature and humidity every minute. An Express s
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Qumetri/QuackProject"><img src="assets/cyberducks.jpg" alt="Cyber Ducks: a starry page with ASCII ducks and stick figures" /></a>
@@ -54,6 +66,7 @@ A webcomic-style field guide to ducks that debug your code. It has a terminal yo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -62,7 +75,7 @@ Earlier work: five Unity games in C# ([Tower Defence](https://github.com/Qumetri
 ## Toolbox
 
 <table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,ts,js,cs,bash&perline=6" alt="Python, TypeScript, JavaScript, C#, Bash" /></td></tr>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,ts,js,rust,cs,bash&perline=6" alt="Python, TypeScript, JavaScript, Rust, C#, Bash" /></td></tr>
 <tr><td><b>Web</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css&perline=6" alt="React, Vite, Node.js, Express, HTML, CSS" /></td></tr>
 <tr><td><b>Servers</b></td><td><img src="https://skillicons.dev/icons?i=linux,docker,postgres,sqlite,n8n,githubactions&perline=6" alt="Linux, Docker, PostgreSQL, SQLite, n8n, GitHub Actions" /></td></tr>
 <tr><td><b>Hardware & games</b></td><td><img src="https://skillicons.dev/icons?i=raspberrypi,unity,dotnet&perline=6" alt="Raspberry Pi, Unity, .NET" /></td></tr>
@@ -74,7 +87,7 @@ Earlier work: five Unity games in C# ([Tower Defence](https://github.com/Qumetri
 2. **Unity courses.** Five small games in C#, then learning object-oriented programming properly.
 3. **freeCodeCamp.** HTML and CSS pages and a first look at accessibility.
 4. **Turku UAS.** Git, JavaScript and a Raspberry Pi Pico that shows the room temperature on an OLED.
-5. **2026.** An ESP32 sensor dashboard, a home server for friends and family, and the Junction hackathon.
+5. **2026.** An ESP32 sensor dashboard, a home server for friends and family, the Junction hackathon, and learning Rust by building a touchscreen PID controller on a Raspberry Pi.
 
 ## Activity
 
